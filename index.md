@@ -49,6 +49,7 @@
 
 
 ### Honors and Awards
+*   Google Research Award, 2024, University of Melbourne 
 *   Early Career Research Award (Physics, Math and Computing), 2023, University of Western Australia
 *   BEST Paper Award Candidate, International Joint Conference on Artificial Intelligence, 2024
 *   Dean's Outstanding Teaching Award, 2018 - 2021, University of Sydney 
