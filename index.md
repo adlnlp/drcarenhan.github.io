@@ -59,6 +59,8 @@
 
 
 ### Honors and Awards
+*   Excellence Award in Engagement for Industry Research, University of Melbourne, 2026
+*   Most Likely to Invent the Time Machine Award, University of Melbourne, 2025
 *   Google Research Award, 2024
 *   Early Career Research Award (Physics, Math and Computing), 2023, University of Western Australia
 *   BEST Paper Award Candidate, International Joint Conference on Artificial Intelligence, 2024
